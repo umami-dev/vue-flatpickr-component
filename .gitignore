@@ -50,7 +50,6 @@ composer.phar
 
 # Project related
 *.tgz
-/dist/
 /docs/
 /tmp/
 /coverage/

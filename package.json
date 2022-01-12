@@ -35,7 +35,7 @@
     "prepublishOnly": "yarn run test && yarn run build"
   },
   "dependencies": {
-    "flatpickr": "^4.6.1"
+    "flatpickr": "umami-dev/flatpickr#99f885321a0138361e479b89c56b22acc1c0a059"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",

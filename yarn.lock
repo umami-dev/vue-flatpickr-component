@@ -2989,10 +2989,9 @@ findup-sync@^2.0.0:
     micromatch "^3.0.4"
     resolve-dir "^1.0.1"
 
-flatpickr@^4.6.1:
-  version "4.6.1"
-  resolved "https://registry.yarnpkg.com/flatpickr/-/flatpickr-4.6.1.tgz#9eb498ab805dd27f5ae02e1ac6ac6c099ce45e94"
-  integrity sha512-3ULSxbXmcMIRzer/2jLNweoqHpwDvsjEawO2FUd9UFR8uPwLM+LruZcPDpuZStcEgbQKhuFOfXo4nYdGladSNw==
+flatpickr@umami-dev/flatpickr#99f885321a0138361e479b89c56b22acc1c0a059:
+  version "4.6.9"
+  resolved "https://codeload.github.com/umami-dev/flatpickr/tar.gz/99f885321a0138361e479b89c56b22acc1c0a059"
 
 flush-write-stream@^1.0.0:
   version "1.0.3"
