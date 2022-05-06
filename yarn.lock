@@ -2784,10 +2784,9 @@ find-up@^4.0.0, find-up@^4.1.0:
     locate-path "^5.0.0"
     path-exists "^4.0.0"
 
-flatpickr@^4.6.9:
+flatpickr@umami-dev/flatpickr#99f885321a0138361e479b89c56b22acc1c0a059:
   version "4.6.9"
-  resolved "https://registry.yarnpkg.com/flatpickr/-/flatpickr-4.6.9.tgz#9a13383e8a6814bda5d232eae3fcdccb97dc1499"
-  integrity sha512-F0azNNi8foVWKSF+8X+ZJzz8r9sE1G4hl06RyceIaLvyltKvDl6vqk9Lm/6AUUCi5HWaIjiUbk7UpeE/fOXOpw==
+  resolved "https://codeload.github.com/umami-dev/flatpickr/tar.gz/99f885321a0138361e479b89c56b22acc1c0a059"
 
 follow-redirects@^1.0.0:
   version "1.14.1"
